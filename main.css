@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://logos-world.net/wp-content/uploads/2022/01/Super-Smash-Bros.-Logo-2014.png");
+    background-size: contain;
+}
+h1,h2{
+    text-align: center;
+    width: 30%;
+    background-color: black;
+    color: white;
+}
+select{
+    margin-left:40%;
+}
+select,button{
+    font-size: 30px;
+    margin-top: 5%;
+}
+img{
+    margin-left: 25%;
+    width: 50%;
+}
+section{
+    background-image: url("https://logos-world.net/wp-content/uploads/2022/01/Super-Smash-Bros.-Logo-2014.png");
+    height: 100px;
+    width: 100%;
+}
